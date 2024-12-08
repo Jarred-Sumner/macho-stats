@@ -2,8 +2,6 @@
 
 A tool to analyze Mach-O binaries.
 
-[https://macho-binary-analyzer.vercel.app/](https://macho-binary-analyzer.vercel.app/)
-
 To install dependencies:
 
 ```bash
